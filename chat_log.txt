@@ -3792,3 +3792,43 @@ Il███████████████████]
 [887333058]: rep: [887333058: 0] 1
 [200000581390]: rep: [P I N K: Ложись] Не надо бог накажет
 [реал Лаванда]: Тупой пидор политех оскорбляет моего краша юрия я тебя ебал мразота ещё раз его тронешь выгоним из фермы пиши ферма сука ирис коины
+[887333058]: class WinterSoldier:
+    def __init__(self):
+        self.status = "deactivated"
+        self.memory_fragments = ["Тоска", "Ржавый", "Семнадцать", "Рассвет", "Печь", "Девять"]
+        self.mission_active = False
+
+    def activate(self, trigger_phrase):
+        if trigger_phrase in self.memory_fragments:
+            self.status = "active"
+            self.mission_active = True
+            print("🧊 [СИСТЕМА] Протокол «Зимний Солдат» активирован.")
+            print("⚡ [СИСТЕМА] Целевая цель назначена. Режим повышенной боеготовности включён.")
+            return True
+        else:
+            print("❌ [СИСТЕМА] Неверная последовательность активации. Доступ запрещён.")
+            return False
+
+    def execute_mission(self):
+        if self.status == "active" and self.mission_active:
+            print("🗡️ Зимний Солдат выходит на позицию…")
+            print("👀 Сканирование окружения…")
+            print("💪 Готовность к выполнению приказа: 100%")
+        else:
+            print("⚠️ [СИСТЕМА] Миссия недоступна: объект неактивен.")
+
+    def deactivate(self):
+        self.status = "deactivated"
+        self.mission_active = False
+        print("💤 [СИСТЕМА] Зимний Солдат переведён в режим ожидания.")
+
+# --- Пример использования ---
+soldier = WinterSoldier()
+
+# Вводим кодовую фразу (одна из «слов-триггеров»)
+code = input("Введите кодовую фразу для активации: ").strip()
+
+if soldier.activate(code):
+    soldier.execute_mission()
+else:
+    print("Попробуйте снова. Подсказка: используйте слова из списка памяти.")

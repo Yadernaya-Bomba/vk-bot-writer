@@ -3832,3 +3832,5 @@ if soldier.activate(code):
     soldier.execute_mission()
 else:
     print("Попробуйте снова. Подсказка: используйте слова из списка памяти.")
+[887333058]: rep: [887333058: class WinterSoldier:
+    def _] чем я занималась ночью 🥰

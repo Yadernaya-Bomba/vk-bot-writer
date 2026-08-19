@@ -4795,3 +4795,4 @@ else:
 [Sych Alejandro]: @all
 [1110303888]: rep: [Sych Alejandro: @all] 
 [P I N K]: Картинка позитива
+[450181681]: rep: [P I N K: Картинка позитива] Легенда

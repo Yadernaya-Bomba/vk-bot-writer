@@ -4823,3 +4823,4 @@ else:
 [450181681]: rep: [P I N K: Да они бодягу свою разливают] 
 [Sych Alejandro]: @all
 [450181681]: rep: [Sych Alejandro: @all] О, норм
+[P I N K]: [Изображение/Стикер]

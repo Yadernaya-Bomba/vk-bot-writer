@@ -4825,3 +4825,4 @@ else:
 [450181681]: rep: [Sych Alejandro: @all] О, норм
 [P I N K]: [Изображение/Стикер]
 [450181681]: rep: [P I N K: [Вложение]] Жетсок
+[P I N K]: rep: [Sych Alejandro: @all] Крутое название

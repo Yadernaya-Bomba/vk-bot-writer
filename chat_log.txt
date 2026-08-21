@@ -7735,3 +7735,5 @@ Go] Ого
 [Sych Alejandro]: Или нет?..
 [Ферлис]: rep: [Sych Alejandro: [id1110303888/Phizmi] [id10931] не страшна
 она милая
+[Sych Alejandro]: rep: [Ферлис: не страшна
+она милая] 

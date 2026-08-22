@@ -8769,3 +8769,4 @@ B -]
 [200000581390]: rep: [450181681: откатываем действие] Братан
 [200000581390]: Ничго
 [Sych Alejandro]: [id450181681/@rotaliham] [id1110303888/Phizmi] [id1093143386/@bestrashiee] [id750884980/@pink_deltarune] признайтесь тоже захотели
+[450181681]: rep: [Sych Alejandro: [id450181681/@rotaliham] [id11] было дело

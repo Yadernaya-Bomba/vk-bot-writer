@@ -9642,3 +9642,4 @@ B -]
 [Kasane Teto]: [Изображение/Стикер]
 [P I N K]: rep: [Kasane Teto: О привет] Как дела?
 [Kasane Teto]: rep: [P I N K: Как дела?] Нормально
+[P I N K]: [Изображение/Стикер]

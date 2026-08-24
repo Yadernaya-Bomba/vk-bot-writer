@@ -9984,3 +9984,4 @@ B -]
 [Sych Alejandro]: rep: [1110303888: [id750884980/@pink_deltarune] ] 
 [Sych Alejandro]: rep: [Sych Alejandro: [Вложение]] А на фоне играет начало этой песни
 [1110303888]: rep: [Sych Alejandro: [Вложение]] Оёйоёойёёйй
+[1110303888]: @all
